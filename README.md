@@ -18,16 +18,16 @@ For WeatherBY we see a dataset obtained from an approximate random of more than 
 Derived from the API call, the information used for comparisons and the following requested graphics is complemented:
 
 Temperature (F) vs. Latitude
-![Temperature vs Latitude] (WeatherPy/Images/LatitudevsTemperature.png)
+![Temperature vs Latitude](WeatherPy/Images/LatitudevsTemperature.png)
 
 Humidity (%) vs. Latitude
-![Humidity vs Latitude]  (WeatherPy/Images/LatitudevsHumidity.png)
+![Humidity vs Latitude](WeatherPy/Images/LatitudevsHumidity.png)
 
 Cloudiness (%) vs. Latitude
-![cloudiness vs Latitude] (WeatherPy/Images/LatitudevsCloudiness.png)
+![cloudiness vs Latitude](WeatherPy/Images/LatitudevsCloudiness.png)
 
 Wind Speed (mph) vs. Latitude
-![Wind Speed vs Latitude] (WeatherPy/Images/LatitudevsWindSpeed.png)
+![Wind Speed vs Latitude](WeatherPy/Images/LatitudevsWindSpeed.png)
 
 Additional obtains as output a file that is used for the part of VacationPy that is saved in both Resources folders.
 
