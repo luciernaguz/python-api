@@ -38,9 +38,11 @@ For VacationPy already implementing the file from part one, the interesting thin
 The interesting and basic note on each dataset to use is the records with nan to be removed to avoid future failures.
 Within the conditions, it is mentioned restricting the information in order to find a suggested vacation place with the suggested conditions, however, when I wanted to implement all the conditions, my information was emptied, so only two conditions were occupied.
 
+These are images of both maps obtained
 
-![hotel map](Images/hotel_map.png)
+![heat map](VacationPy/Images/HeatMap.png)
 
+![hotel cities](VacationPy/Images/HotelCities.png)
 
 
 
