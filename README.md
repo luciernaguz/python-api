@@ -18,7 +18,7 @@ For WeatherBY we see a dataset obtained from an approximate random of more than 
 Derived from the API call, the information used for comparisons and the following requested graphics is complemented:
 
 Temperature (F) vs. Latitude
-![Temperature vs Latitude](WeayherPy/Images/LatitudevsTemperature.png)
+![Temperature vs Latitude](WeatherPy/Images/LatitudevsTemperature.png)
 Humidity (%) vs. Latitude
 ![Humidity vs Latitude](WeatherPy/Images/LatitudevsHumidity.png)
 Cloudiness (%) vs. Latitude
