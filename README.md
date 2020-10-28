@@ -1,7 +1,14 @@
 # Python API Challenge
+TI strive to achieve the totality, however I think there may be some details about centering the maps and some details that by doing an in-depth study on APi´s can be improved.
 
+Something to mention is to consider the response time of the Weather Api, although there are not thousands of records it takes time for the response.
 
-##WeatherPy 
+In detail, the challenge consists of two objectives to call it WeatherPy and VacationPy.
+
+An important note is that both require the famous api_keys that are personal and that are essential for the call of both implemented APi´s, within each folder there is a file called api_keys in which the personal api must be entered respectively.
+
+## WeatherPy
+
 
 Whether financial, political, or social -- data's true power lies in its ability to answer questions definitively. So let's take what you've learned about Python requests, APIs, and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
@@ -11,7 +18,7 @@ But, if pressed, how would you **prove** it?
 
 ![Equator](Images/equatorsign.png)
 
-##VacationPY 
+## VacationPY 
 
 1. Create a new repository for this project called `python-api-challenge`. **Do not add this homework to an existing repository**.
 
