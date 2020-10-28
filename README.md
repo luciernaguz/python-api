@@ -15,6 +15,20 @@ Continuing the dependencies of both is found in each Resources folder.
 For WeatherBY we see a dataset obtained from an approximate random of more than 500 cities to be evaluated for topics such as Humidity, Cloudiness, Latitude, etc.
 
 
+Derived from the API call, the information used for comparisons and the following requested graphics is complemented:
+
+Temperature (F) vs. Latitude
+![Temperature vs Latitude](Images/LatitudevsTemperature.png)
+Humidity (%) vs. Latitude
+![Humidity vs Latitude](Images/LatitudevsHumidity.png)
+Cloudiness (%) vs. Latitude
+![cloudiness vs Latitude](Images/LatitudevsCloudiness.png)
+Wind Speed (mph) vs. Latitude
+![Wind Speed vs Latitude](Images/LatitudevsWindSpeed.png)
+
+Additional obtains as output a file that is used for the part of VacationPy that is saved in both Resources folders.
+
+
 ![S](Images/equatorsign.png)
 
 ## VacationPY 
